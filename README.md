@@ -27,9 +27,9 @@ https://anasaltayb.github.io/Axir-Website/
 
 ## Repository Structure
 
-- CAD/: SolidWorks source files and printable STL/STEP models.
+- CAD/: SolidWorks source files and SLDPRT model.
 - Docs/: Assembly photos and physical product shots.
-- index.html, style.css, script.js: Source files for the GitHub Pages landing site.
+- index.html, style.css, script.js: Source files for the GitHub Pages landing site, you can check them in "https://github.com/AnasAltayb/Axir-Website".
 
 ---
 
